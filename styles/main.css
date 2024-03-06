@@ -113,3 +113,9 @@ p {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.banner h2 {
+  font-family: var(--ff-secondary);
+  color: var(--clr-primary);
+  /* animation */
+}
