@@ -191,3 +191,8 @@ p {
   max-width: 17rem;
   margin: 0 auto;
 }
+
+.skill:hover {
+  background: var(--clr-white);
+  box-shadow: 0 2px var(--clr-primary);
+}
