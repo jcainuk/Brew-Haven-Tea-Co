@@ -117,6 +117,13 @@ p {
   background: var(--clr-primary-light);
 }
 
+.clearfix::after,
+.clearfix::before {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 /* HEADER */
 .header {
   min-height: 100vh;
