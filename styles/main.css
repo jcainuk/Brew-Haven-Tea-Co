@@ -4,8 +4,8 @@
 /* VARIABLES */
 
 :root {
-  --clr-primary: #678e3e;
-  --clr-primary-light: #beedac;
+  --clr-primary: #6a1b9a;
+  --clr-primary-light: #e1bee7;
   --clr-grey-1: #102a42;
   --clr-grey-5: #617d98;
   --clr-grey-10: #f1f5f8;
@@ -128,7 +128,7 @@ p {
 .header {
   min-height: 100vh;
   background:
-    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
     url("../images/main-bcg.jpeg") center/cover no-repeat fixed;
   position: relative;
   /* animation */
