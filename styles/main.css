@@ -171,3 +171,9 @@ p {
 .skills {
   background: var(--clr-grey-10);
 }
+
+.skill {
+  padding: 2.5rem 0;
+  text-align: center;
+  transition: var(--transition);
+}
