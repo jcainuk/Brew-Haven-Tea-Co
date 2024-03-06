@@ -196,3 +196,7 @@ p {
   background: var(--clr-white);
   box-shadow: 0 2px var(--clr-primary);
 }
+
+.skill:hover .skill-icon {
+  transform: translateY(-5px);
+}
