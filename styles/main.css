@@ -1,7 +1,7 @@
-/*  Fonts */
+/*  FONTS */
 @import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&family=Grand+Hotel&display=swap");
 
-/* Variables */
+/* VARIABLES */
 
 :root {
   --clr-primary: #678e3e;
@@ -17,7 +17,7 @@
   --radius: 0.5rem;
 }
 
-/* Global styles */
+/* GLOBAL STYLES */
 * {
   margin: 0;
   padding: 0;
@@ -68,6 +68,8 @@ p {
   margin-bottom: 1.25rem;
 }
 
+/* MEDIA QUERY FROM 800px  */
+
 @media screen and (min-width: 800px) {
   h1 {
     font-size: 4rem;
@@ -93,7 +95,7 @@ p {
   }
 }
 
-/* more global css */
+/* MORE GLOBAL CSS */
 
 .btn {
   text-transform: uppercase;
@@ -115,7 +117,7 @@ p {
   background: var(--clr-primary-light);
 }
 
-/* header */
+/* HEADER */
 .header {
   min-height: 100vh;
   background:
@@ -144,4 +146,11 @@ p {
   color: var(--clr-white);
   margin-top: 1.25rem;
   margin-bottom: 2rem;
+}
+
+.banner-btn {
+  outline: 0.125rem solid var(--clr-primary);
+  outline-offset: 0.25rem;
+  font-size: 1.25rem;
+  padding: 1rem 1.75rem;
 }
