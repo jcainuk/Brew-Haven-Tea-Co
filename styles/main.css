@@ -165,3 +165,9 @@ p {
     var(--clr-primary)
   );
 }
+
+/* SKILLS */
+
+.skills {
+  background: var(--clr-grey-10);
+}
