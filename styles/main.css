@@ -185,3 +185,9 @@ p {
   display: inline-block;
   color: var(--clr-primary);
 }
+
+.skill-text {
+  color: var(--clr-grey-5);
+  max-width: 17rem;
+  margin: 0 auto;
+}
