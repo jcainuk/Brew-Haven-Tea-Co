@@ -119,3 +119,9 @@ p {
   color: var(--clr-primary);
   /* animation */
 }
+.banner h1 {
+  text-transform: uppercase;
+  color: var(--clr-white);
+  margin-top: 1.25rem;
+  margin-bottom: 2rem;
+}
