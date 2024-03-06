@@ -16,3 +16,10 @@
   --spacing: 0.25rem;
   --radius: 0.5rem;
 }
+
+/* Global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
