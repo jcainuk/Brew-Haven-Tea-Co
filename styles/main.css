@@ -177,3 +177,11 @@ p {
   text-align: center;
   transition: var(--transition);
 }
+
+.skill-icon {
+  font-size: 2.5rem;
+  margin-bottom: 1.25rem;
+  transition: var(--transition);
+  display: inline-block;
+  color: var(--clr-primary);
+}
