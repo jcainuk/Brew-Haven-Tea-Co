@@ -298,6 +298,10 @@ p {
   max-width: 26rem;
 }
 
+.product {
+  margin-bottom: 2rem;
+}
+
 .product-image {
   border-radius: var(--radius);
   margin-bottom: 2rem;
