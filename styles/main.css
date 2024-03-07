@@ -266,3 +266,8 @@ p {
   opacity: 0.5;
   transform: scale(1.2);
 }
+
+.about-text {
+  max-width: 26rem;
+  color: var(--clr-grey-5);
+}
