@@ -123,6 +123,10 @@ p {
   clear: both;
   display: table;
 }
+.section-title h3 {
+  font-family: var(--ff-secondary);
+  color: var(--clr-primary);
+}
 
 /* HEADER */
 .header {
@@ -220,3 +224,5 @@ p {
     width: 25%;
   }
 }
+
+/* ABOUT */
