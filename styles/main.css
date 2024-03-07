@@ -374,3 +374,9 @@ p {
   text-align: center;
   padding: 3rem 1rem 2.5rem 1rem;
 }
+
+.service-info p {
+  max-width: 20rem;
+  color: var(--clr-grey-5);
+  margin: 0 auto;
+}
