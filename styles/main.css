@@ -255,6 +255,7 @@ p {
   border: 0.5rem solid var(--clr-primary);
   max-width: 30rem;
   /* extra stuff */
+  overflow: hidden;
 }
 
 .about-picture {
