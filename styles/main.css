@@ -244,3 +244,8 @@ p {
 }
 
 /* ABOUT */
+
+.about-img,
+.about-info {
+  padding: 2rem 0;
+}
