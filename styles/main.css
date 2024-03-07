@@ -297,3 +297,10 @@ p {
   color: var(--clr-grey-5);
   max-width: 26rem;
 }
+
+.product-image {
+  border-radius: var(--radius);
+  margin-bottom: 2rem;
+  height: 17rem;
+  object-fit: cover;
+}
