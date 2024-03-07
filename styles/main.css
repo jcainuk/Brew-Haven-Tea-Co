@@ -260,3 +260,8 @@ p {
 .about-picture {
   transition: var(--transition);
 }
+
+.about-picture-container:hover .about-picture {
+  opacity: 0.5;
+  transform: scale(1.2);
+}
