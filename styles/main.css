@@ -271,3 +271,14 @@ p {
   max-width: 26rem;
   color: var(--clr-grey-5);
 }
+
+@media screen and (min-width: 992px) {
+  .about-img,
+  .about-info {
+    float: left;
+    width: 50%;
+  }
+  .about-info {
+    padding-left: 2rem;
+  }
+}
