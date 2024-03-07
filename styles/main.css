@@ -254,4 +254,9 @@ p {
   background: var(--clr-primary);
   border: 0.5rem solid var(--clr-primary);
   max-width: 30rem;
+  /* extra stuff */
+}
+
+.about-picture {
+  transition: var(--transition);
 }
