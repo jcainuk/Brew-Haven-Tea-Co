@@ -326,3 +326,14 @@ p {
     width: 33.3%;
   }
 }
+
+@media screen and (min-width: 1200px) {
+  .product-info {
+    float: left;
+    width: 30%;
+  }
+  .product-inventory {
+    float: left;
+    width: 70%;
+  }
+}
