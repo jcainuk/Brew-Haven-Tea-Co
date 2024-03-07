@@ -320,3 +320,9 @@ p {
     padding-right: 2rem;
   }
 }
+
+@media screen and (min-width: 992px) {
+  .product {
+    width: 33.3%;
+  }
+}
