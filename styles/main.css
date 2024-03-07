@@ -139,6 +139,13 @@ p {
   max-width: 1170px;
 }
 
+@media screen and (min-width: 992px) {
+  .section-center {
+    width: 95vw;
+    padding: 4rem 1rem;
+  }
+}
+
 /* HEADER */
 .header {
   min-height: 100vh;
