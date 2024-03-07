@@ -404,3 +404,11 @@ p {
     margin-right: 3.33%;
   }
 }
+
+.service-img-container {
+  position: relative;
+}
+
+.service-icon {
+  position: absolute;
+}
