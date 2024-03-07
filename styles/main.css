@@ -341,3 +341,11 @@ p {
     padding: 0 1rem;
   }
 }
+
+/* SERVICES */
+
+.services-title {
+  margin-top: 4rem;
+  margin-bottom: -4rem;
+  text-align: center;
+}
