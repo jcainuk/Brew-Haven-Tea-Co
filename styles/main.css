@@ -249,3 +249,9 @@ p {
 .about-info {
   padding: 2rem 0;
 }
+
+.about-picture-container {
+  background: var(--clr-primary);
+  border: 0.5rem solid var(--clr-primary);
+  max-width: 30rem;
+}
