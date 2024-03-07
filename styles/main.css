@@ -336,4 +336,8 @@ p {
     float: left;
     width: 70%;
   }
+  .product {
+    margin-bottom: 0;
+    padding: 0 1rem;
+  }
 }
