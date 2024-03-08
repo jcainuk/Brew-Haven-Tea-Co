@@ -441,3 +441,7 @@ p {
   color: var(--clr-primary);
   font-weight: 400;
 }
+
+.contact-text {
+  text-transform: uppercase;
+}
