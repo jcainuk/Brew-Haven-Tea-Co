@@ -445,3 +445,10 @@ p {
 .contact-text {
   text-transform: uppercase;
 }
+
+.contact-form {
+  background: var(--clr-white);
+  border-radius: var(--radius);
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
