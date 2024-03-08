@@ -469,3 +469,7 @@ p {
   padding-top: 1.25rem;
   color: var(--clr-grey-5);
 }
+
+.form-group {
+  padding: 1rem 1.5rem;
+}
