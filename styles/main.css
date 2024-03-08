@@ -175,6 +175,15 @@ p {
   /* hide navbar */
 }
 
+.showNav {
+  /* need this class later */
+}
+
+.navbar-header {
+  text-align: right;
+  padding-right: 1rem;
+}
+
 /* HEADER */
 .header {
   min-height: 100vh;
