@@ -177,7 +177,7 @@ p {
 }
 
 .showNav {
-  /* need this class later */
+  transform: translate(0);
 }
 
 .navbar-header {
