@@ -421,3 +421,9 @@ p {
   transform: translate(-50%, 50%);
   border: 0.375rem solid var(--clr-grey-10);
 }
+
+/* CONTACT */
+
+.contact {
+  background: var(--clr-grey-10);
+}
