@@ -146,6 +146,20 @@ p {
   }
 }
 
+/* ANIMATION */
+
+@keyframes bounce {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
 /* NAVBAR */
 
 .nav-btn {
@@ -156,7 +170,7 @@ p {
   color: var(--clr-primary);
   z-index: 1;
   cursor: pointer;
-  /* animation  */
+  animation: bounce 2s ease infinite;
 }
 
 /* navbar */
