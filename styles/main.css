@@ -191,6 +191,10 @@ p {
   transition: var(--transition);
 }
 
+.nav-close:hover {
+  color: #bb2525;
+}
+
 /* HEADER */
 .header {
   min-height: 100vh;
