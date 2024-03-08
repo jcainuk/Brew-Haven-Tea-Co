@@ -532,3 +532,7 @@ p {
   color: var(--clr-white);
   font-weight: 400;
 }
+
+.company {
+  color: var(--clr-primary);
+}
