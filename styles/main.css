@@ -427,3 +427,8 @@ p {
 .contact {
   background: var(--clr-grey-10);
 }
+
+.contact-form,
+.contact-info {
+  margin: 1rem 0;
+}
