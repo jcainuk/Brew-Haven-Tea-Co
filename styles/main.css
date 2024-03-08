@@ -508,3 +508,9 @@ p {
     width: 50%;
   }
 }
+
+/* FOOTER */
+.footer {
+  background: #222;
+  text-align: center;
+}
