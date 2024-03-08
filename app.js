@@ -11,3 +11,7 @@ const navClose = document.getElementById("nav-close");
 navBtn.addEventListener("click", () => {
   navbar.classList.add("showNav");
 });
+// close nav
+navClose.addEventListener("click", () => {
+  navbar.classList.remove("showNav");
+});
