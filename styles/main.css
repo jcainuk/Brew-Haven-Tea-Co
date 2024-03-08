@@ -432,3 +432,7 @@ p {
 .contact-info {
   margin: 1rem 0;
 }
+
+.contact-item {
+  margin-bottom: 1.75rem;
+}
