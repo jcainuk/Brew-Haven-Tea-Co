@@ -177,6 +177,7 @@ p {
 }
 
 .showNav {
+  /* class to show navbar */
   transform: translate(0);
 }
 
