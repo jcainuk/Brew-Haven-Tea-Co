@@ -436,3 +436,8 @@ p {
 .contact-item {
   margin-bottom: 1.75rem;
 }
+
+.contact-title {
+  color: var(--clr-primary);
+  font-weight: 400;
+}
