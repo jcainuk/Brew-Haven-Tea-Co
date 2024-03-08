@@ -521,3 +521,7 @@ p {
   margin-right: 1rem;
   transition: var(--transition);
 }
+
+.social-icon:hover {
+  color: var(--clr-primary);
+}
