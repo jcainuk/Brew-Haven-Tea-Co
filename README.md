@@ -8,7 +8,7 @@ Please find a link to the hosted website here:
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
-- [Reflections and Key Learnings](#reflections-and-key-learnings)
+- [Key Learnings](#key-learnings)
 - [Future Considerations](#future-considerations)
 
 ## Technologies Used
