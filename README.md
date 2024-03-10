@@ -3,7 +3,7 @@
 Welcome to the Brew Haven Tea Company website! This project aims to provide a modern, engaging and responsive prototype website for an imaginary tea company, showcasing its products, services, and mission. I used this project to improve my HTML and CSS skills.
 
 Please find a link to the hosted website here:
-[Hosted Website](https://brew-haven-tea.netlify.app/)
+[Hosted Website](https://brew-haven-tea.netlify.app/){:target="\_blank"}
 
 ## Table of Contents
 
