@@ -41,4 +41,4 @@ The following features are potential ways to improve the project in the future:
 
 - [ ] Connect the website to an existing API to generate the products
 - [ ] Refactor the float layout with CSS grid or flexbox.
-- [ ] Full build the other static HTML pages which only have minimum contact at the moment.
+- [ ] Fully build the other static HTML pages which only have minimum contact at the moment.
